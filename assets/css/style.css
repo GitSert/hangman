@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Edmunds';
+    src: url('../fonts/edmunds.ttf') format('truetype');
+}
+
+canvas{
+    font-family: 'Edmunds';
+    background-image: url("../images/western-bg.jpg");
+    background-size: cover;
+}
